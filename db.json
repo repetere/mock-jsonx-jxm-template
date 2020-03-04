@@ -1,0 +1,11 @@
+{
+  "jsonx": {
+    "component": "section",
+    "props":{ 
+      "style": {
+        "background":"#999"
+      }
+    },
+    "children": "from external template"
+  }
+}
